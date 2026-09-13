@@ -1,0 +1,13 @@
+[
+    "previous_year_production",
+    "rolling_2yr_production",
+    "rainfall_mm",
+    "soil_moisture",
+    "temperature_c",
+    "equipment_downtime_hours",
+    "equipment_efficiency_pct",
+    "blasting_delay_hours",
+    "working_hours_per_day",
+    "number_of_equipment",
+    "mineral_value_tonnes"
+]

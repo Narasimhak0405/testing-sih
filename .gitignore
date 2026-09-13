@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+dist/
+dist-ssr/
+
+# Python & virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.local
+.env.*
+!.env.example
+
+# Local SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+backend/ml/model/production_model.pkl
+e2e_full_demo_test.png
+production_forecast_result.png
+production_forecast_result.png
+backend/ml/model/production_model.pkl
+e2e_full_demo_test.png
+backend/ml/model/production_model.pkl
